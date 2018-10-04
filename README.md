@@ -1,4 +1,4 @@
-# Compec Java - Week 1
+# Java Training 2018 - Week 1
 
 ## How to use
 
